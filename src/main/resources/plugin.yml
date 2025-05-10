@@ -1,0 +1,13 @@
+name: me.template
+version: '1.0-SNAPSHOT'
+main: me.template
+api-version: '1.21'
+authors: [ Your name ]
+description: Minecraft plugin template
+website: Your website
+
+commands:
+  template:
+    description: A template command
+    usage: /template
+    permission: template.use
